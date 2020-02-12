@@ -29,16 +29,11 @@ MAX6675 tc3(clPin, csPin2, doPin);
 
 
 // Wi-Fi settings
-const char* ssid     = "kaaiot";
-const char* password = "vapemach1ne";
-// const char* ssid     = "505";
-// const char* password = "(plasma chemistry)";
-// const char* ssid     = "Xiaomi_AE57";
-// const char* password = "taras3242";
+const char* ssid     = "name";
+const char* password = "password";
 
 // MQTT settings
 // Add your MQTT Broker IP address, example:
-//const char* mqtt_server = "192.168.1.144";
 const char* mqtt_server = "10.2.0.74";
 const char *mqttUser = "test";
 const char *mqttPassword = "test";
@@ -88,7 +83,7 @@ void setup() {
   Serial.begin(115200);
   setup_wifi();
   tc.begin();
-  Wire.begin( I2C_SDA_PIN, I2C_SCL_PIN );// 1000000
+  Wire.begin(I2C_SDA_PIN, I2C_SCL_PIN);// 1000000
   ina219.begin();
 }
 
@@ -96,7 +91,7 @@ long iterator = 0;
 StaticJsonDocument<200> doc;
 
 void loop() {
-  if (!client.connected()) {
+  if (!client.connected()) { // TODO: move into setup() for saving CPU's circles 
     reconnect();
   }
   client.loop();
@@ -109,5 +104,4 @@ void loop() {
   char buffer[512];
   size_t n = serializeJson(doc, buffer);
   client.publish("esp32/temperature", buffer, n);
-
 }

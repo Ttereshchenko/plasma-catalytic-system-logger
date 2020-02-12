@@ -1,0 +1,6 @@
+*.csv
+.python-version
+tmp_trash
+dev
+.idea
+.vscode

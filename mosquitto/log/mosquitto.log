@@ -1,0 +1,233 @@
+1581292671: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581297439: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581299238: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581301037: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581302836: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581304635: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581306434: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581308232: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581310031: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581320445: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581320935: mosquitto version 1.6.8 terminating
+1581320935: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581326398: mosquitto version 1.6.8 starting
+1581326398: Config loaded from /mosquitto/config/mosquitto.conf.
+1581326398: Opening ipv4 listen socket on port 1883.
+1581326398: Opening ipv6 listen socket on port 1883.
+1581326429: mosquitto version 1.6.8 terminating
+1581326429: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581327254: mosquitto version 1.6.8 starting
+1581327254: Config loaded from /mosquitto/config/mosquitto.conf.
+1581327254: Opening ipv4 listen socket on port 1883.
+1581327254: Opening ipv6 listen socket on port 1883.
+1581327256: mosquitto version 1.6.8 terminating
+1581327256: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581327453: mosquitto version 1.6.8 starting
+1581327508: mosquitto version 1.6.8 starting
+1581327657: mosquitto version 1.6.8 starting
+1581343061: mosquitto version 1.6.8 starting
+1581343138: mosquitto version 1.6.8 starting
+1581343138: Config loaded from /mosquitto/config/mosquitto.conf.
+1581343138: Opening ipv4 listen socket on port 1883.
+1581343138: Opening ipv6 listen socket on port 1883.
+1581343139: New connection from 172.27.0.3 on port 1883.
+1581343139: New client connected from 172.27.0.3 as Python (p2, c1, k60, u'test').
+1581343211: New connection from 172.27.0.1 on port 1883.
+1581343405: mosquitto version 1.6.8 starting
+1581343405: Config loaded from /mosquitto/config/mosquitto.conf.
+1581343405: Opening ipv4 listen socket on port 1883.
+1581343405: Opening ipv6 listen socket on port 1883.
+1581343406: New connection from 172.28.0.3 on port 1883.
+1581343406: New client connected from 172.28.0.3 as Python (p2, c1, k60, u'test').
+1581343442: New connection from 172.28.0.1 on port 1883.
+1581343442: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581343578: New connection from 172.28.0.1 on port 1883.
+1581343578: Client ESP-32-Client already connected, closing old connection.
+1581343578: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581343646: New connection from 172.28.0.1 on port 1883.
+1581343646: Client ESP-32-Client already connected, closing old connection.
+1581343646: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581343667: Socket error on client Python, disconnecting.
+1581343668: mosquitto version 1.6.8 terminating
+1581343668: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581343679: mosquitto version 1.6.8 starting
+1581343679: Config loaded from /mosquitto/config/mosquitto.conf.
+1581343679: Opening ipv4 listen socket on port 1883.
+1581343679: Opening ipv6 listen socket on port 1883.
+1581343679: New connection from 172.28.0.3 on port 1883.
+1581343679: New client connected from 172.28.0.3 as Python (p2, c1, k60, u'test').
+1581343685: New connection from 172.28.0.1 on port 1883.
+1581343788: mosquitto version 1.6.8 starting
+1581343788: Config loaded from /mosquitto/config/mosquitto.conf.
+1581343788: Opening ipv4 listen socket on port 1883.
+1581343788: Opening ipv6 listen socket on port 1883.
+1581343789: New connection from 172.28.0.3 on port 1883.
+1581343789: New client connected from 172.28.0.3 as Python (p2, c1, k60, u'test').
+1581343789: New connection from 172.28.0.1 on port 1883.
+1581343789: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581343870: Socket error on client Python, disconnecting.
+1581343871: mosquitto version 1.6.8 terminating
+1581343871: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581344216: mosquitto version 1.6.8 starting
+1581344216: Config loaded from /mosquitto/config/mosquitto.conf.
+1581344216: Opening ipv4 listen socket on port 1883.
+1581344216: Opening ipv6 listen socket on port 1883.
+1581344216: New connection from 172.28.0.3 on port 1883.
+1581344216: New client connected from 172.28.0.3 as Python (p2, c1, k60, u'test').
+1581344228: New connection from 172.28.0.1 on port 1883.
+1581344228: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581344256: New connection from 172.28.0.1 on port 1883.
+1581344256: Client ESP-32-Client already connected, closing old connection.
+1581344256: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581344369: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581345476: New connection from 172.28.0.1 on port 1883.
+1581345476: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581345498: New connection from 172.28.0.1 on port 1883.
+1581345498: Client ESP-32-Client already connected, closing old connection.
+1581345498: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581345557: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581345827: New connection from 172.28.0.1 on port 1883.
+1581345827: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581345845: New connection from 172.28.0.1 on port 1883.
+1581345845: Client ESP-32-Client already connected, closing old connection.
+1581345845: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346015: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581346119: New connection from 172.28.0.1 on port 1883.
+1581346119: Client ESP-32-Client already connected, closing old connection.
+1581346119: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346397: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581346570: New connection from 172.28.0.1 on port 1883.
+1581346570: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346590: New connection from 172.28.0.1 on port 1883.
+1581346590: Client ESP-32-Client already connected, closing old connection.
+1581346590: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346717: New connection from 172.28.0.1 on port 1883.
+1581346717: Client ESP-32-Client already connected, closing old connection.
+1581346717: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346857: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581346937: New connection from 172.28.0.1 on port 1883.
+1581346937: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581346987: New connection from 172.28.0.1 on port 1883.
+1581346987: Client ESP-32-Client already connected, closing old connection.
+1581346987: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581347159: New connection from 172.28.0.1 on port 1883.
+1581347159: Client ESP-32-Client already connected, closing old connection.
+1581347159: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581347184: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581347349: Socket error on client Python, disconnecting.
+1581347349: mosquitto version 1.6.8 terminating
+1581347349: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581361179: mosquitto version 1.6.8 starting
+1581361179: Config loaded from /mosquitto/config/mosquitto.conf.
+1581361179: Opening ipv4 listen socket on port 1883.
+1581361179: Opening ipv6 listen socket on port 1883.
+1581361180: New connection from 172.28.0.3 on port 1883.
+1581361180: New client connected from 172.28.0.3 as Python (p2, c1, k60, u'test').
+1581361420: New connection from 172.28.0.1 on port 1883.
+1581361420: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581361439: New connection from 172.28.0.1 on port 1883.
+1581361439: Client ESP-32-Client already connected, closing old connection.
+1581361439: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581361561: New connection from 172.28.0.1 on port 1883.
+1581361561: Client ESP-32-Client already connected, closing old connection.
+1581361561: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581361642: New connection from 172.28.0.1 on port 1883.
+1581361642: Client ESP-32-Client already connected, closing old connection.
+1581361642: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581361883: New connection from 172.28.0.1 on port 1883.
+1581361883: Client ESP-32-Client already connected, closing old connection.
+1581361883: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581361926: New connection from 172.28.0.1 on port 1883.
+1581361926: Client ESP-32-Client already connected, closing old connection.
+1581361926: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581362263: New connection from 172.28.0.1 on port 1883.
+1581362263: Client ESP-32-Client already connected, closing old connection.
+1581362263: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581362503: New connection from 172.28.0.1 on port 1883.
+1581362503: Client ESP-32-Client already connected, closing old connection.
+1581362503: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581362584: New connection from 172.28.0.1 on port 1883.
+1581362584: Client ESP-32-Client already connected, closing old connection.
+1581362584: New client connected from 172.28.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581362769: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581362978: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581416249: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581418047: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581419846: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581421650: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581422643: Socket error on client Python, disconnecting.
+1581422644: mosquitto version 1.6.8 terminating
+1581422644: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581435638: mosquitto version 1.6.8 starting
+1581435638: Config loaded from /mosquitto/config/mosquitto.conf.
+1581435638: Opening ipv4 listen socket on port 1883.
+1581435638: Opening ipv6 listen socket on port 1883.
+1581435638: New connection from 172.29.0.3 on port 1883.
+1581435638: New client connected from 172.29.0.3 as Python (p2, c1, k60, u'test').
+1581435954: New connection from 172.29.0.1 on port 1883.
+1581435954: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581435986: New connection from 172.29.0.1 on port 1883.
+1581435986: Client ESP-32-Client already connected, closing old connection.
+1581435986: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581436124: New connection from 172.29.0.1 on port 1883.
+1581436124: Client ESP-32-Client already connected, closing old connection.
+1581436124: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581436335: New connection from 172.29.0.1 on port 1883.
+1581436335: Client ESP-32-Client already connected, closing old connection.
+1581436335: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581436593: New connection from 172.29.0.1 on port 1883.
+1581436593: Client ESP-32-Client already connected, closing old connection.
+1581436593: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581436616: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581436931: New connection from 172.29.0.1 on port 1883.
+1581436931: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581437026: New connection from 172.29.0.1 on port 1883.
+1581437026: Client ESP-32-Client already connected, closing old connection.
+1581437026: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581437148: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581437171: New connection from 172.29.0.1 on port 1883.
+1581437171: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581437324: New connection from 172.29.0.1 on port 1883.
+1581437324: Client ESP-32-Client already connected, closing old connection.
+1581437324: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581437436: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581437565: New connection from 172.29.0.1 on port 1883.
+1581437565: Client ESP-32-Client already connected, closing old connection.
+1581437565: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581438002: New connection from 172.29.0.1 on port 1883.
+1581438002: Client ESP-32-Client already connected, closing old connection.
+1581438002: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581438992: New connection from 172.29.0.1 on port 1883.
+1581438992: Client ESP-32-Client already connected, closing old connection.
+1581438992: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581439046: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581439076: New connection from 172.29.0.1 on port 1883.
+1581439076: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581439235: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581439323: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581439731: New connection from 172.29.0.1 on port 1883.
+1581439731: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581439908: New connection from 172.29.0.1 on port 1883.
+1581439908: Client ESP-32-Client already connected, closing old connection.
+1581439908: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581440491: New connection from 172.29.0.1 on port 1883.
+1581440491: Client ESP-32-Client already connected, closing old connection.
+1581440491: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581440580: New connection from 172.29.0.1 on port 1883.
+1581440580: Client ESP-32-Client already connected, closing old connection.
+1581440580: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581441034: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581441256: New connection from 172.29.0.1 on port 1883.
+1581441256: Client ESP-32-Client already connected, closing old connection.
+1581441256: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581441642: New connection from 172.29.0.1 on port 1883.
+1581441642: Client ESP-32-Client already connected, closing old connection.
+1581441642: New client connected from 172.29.0.1 as ESP-32-Client (p2, c1, k15, u'test').
+1581441867: Client ESP-32-Client has exceeded timeout, disconnecting.
+1581444889: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581446688: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581448487: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581450886: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581500583: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581502382: Saving in-memory database to /mosquitto/datamosquitto.db.
+1581504231: Saving in-memory database to /mosquitto/datamosquitto.db.

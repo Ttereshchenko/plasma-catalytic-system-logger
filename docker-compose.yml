@@ -1,0 +1,28 @@
+version: '3'
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    restart: always
+    ports:
+      - '1883:1883'
+      - '9001:9001'
+    volumes:
+      - ./mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+      - ./mosquitto/passwd:/mosquitto/passwd
+  py-client:
+    build: 
+      dockerfile: ./Dockerfile
+      context: ./extract-mqtt-data
+    depends_on: 
+      - "mosquitto"
+    environment:
+      - MQTT_HOST=mosquitto
+      - MQTT_PORT=1883
+      - MQTT_USER_NAME=test
+      - MQTT_USER_PASS=test
+      - OUT_PUT_FILE_NAME=${OUT_PUT_FILE_NAME}
+      - HEADER=${HEADER}
+    volumes: 
+      - ./:/data_out

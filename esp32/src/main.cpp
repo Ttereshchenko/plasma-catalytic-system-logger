@@ -7,7 +7,8 @@
 #include <Adafruit_INA219.h>
 #include <Wire.h>
 
-Adafruit_INA219 ina219;
+Adafruit_INA219 ina219(0x40);
+Adafruit_INA219 ina219_2(0x41);
 #define I2C_SDA_PIN 23
 #define I2C_SCL_PIN 22
 
@@ -85,6 +86,9 @@ void setup() {
   tc.begin();
   Wire.begin(I2C_SDA_PIN, I2C_SCL_PIN);// 1000000
   ina219.begin();
+  ina219_2.begin();
+  ina219.setCalibration_16V_400mA();
+  ina219_2.setCalibration_16V_400mA();
 }
 
 long iterator = 0;
@@ -100,6 +104,8 @@ void loop() {
   doc["t1"] = tc.getTemperature();
   doc["t2"] = tc2.readCelsius();
   doc["t3"] = tc3.readCelsius();
+  doc["mA"] = ina219_2.getCurrent_mA();
+  doc["V"] = ina219.getShuntVoltage_mV()/1000 + ina219_2.getBusVoltage_V();
 
   char buffer[512];
   size_t n = serializeJson(doc, buffer);
